@@ -1,4 +1,4 @@
-# Vibe Marketing Toolkit
+# GTM Starter Kit
 
 A collection of templates and starter pack for content marketing designed for founders who want to streamline their go-to-market content creation process.
 
