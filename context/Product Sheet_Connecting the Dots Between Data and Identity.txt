@@ -1,0 +1,141 @@
+
+
+
+
+
+
+
+Connecting the Dots Between Data & Identity
+
+Solve today's complex marketing challenges with a deterministic truth set linked to online identi?ers and a robust collection of data attributes
+
+Deep Sync's multi-dimensional, offline-to-online identity graph is built on a framework of direct mail-grade personal information linked to persistent identifiers, a collection of online identifiers, and a robust variety of data attributes to solve complex marketing challenges. Our identity graph powers seamless translation from channel to channel as well as the ability to activate data in offline, online, and cloud applications.
+
+Rooted in the online, anonymized world, probabilistic identity graphs rely on modeling and heuristics to create linkages between identifiers and individuals and/or households. In other words, probabilistic identity graphs don't have observed linkages; they're created through the application of predictive modeling. While probabilistic graphs have their place scaling audiences for digital activation, they can fall short in accuracy and measurement.
+
+
+
+
+
+
+
+
+
+
+A foundation of o?ine data that includes personal information for 97% of U.S. consumers age 18 and older
+
+Billions of online identi?ers linked to known individuals and households, including HEMs, MAIDs, IPs, and more
+
+Hundreds of deterministic and modeled demographic, ?nancial, lifestyle, property, and geographic attributes
+
+Connecting the Dots Between Data & Identity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In contrast, Deep Sync's identity graph is rooted in offline, deterministic data, and we only connect identifiers to individuals and/or households when there is an observed PII link. Our graph utilizes persistent identifiers to ensure stability, leading to more consistent audiences and accurate measurement over time.
+
+O?ine-to-Online Linkage Methodology
+At the core of Deep Sync's identity graph is our proprietary identity spine, a highly accurate, deterministic offline identity asset of more than 260 million direct
+mail-grade records that recognizes consumers and households across the United States. Our identity spine, which leverages a fully deterministic postal data truth set, enables us to connect a variety of data assets into actionable audiences through the use of offline personal information linked to digital identifiers.
+
+Deep Sync's identity spine enables us to link personal information to online identifiers in a deterministic manner through a shared PII match. For example, Deep Sync receives email opt-in events from which we collect names, postal addresses, emails, and IP addresses. We map those opt-in events for known individuals and/or households to our identity spine where we observe shared personal information. We further ensure accuracy by ranking IP addresses based on recency, as there can be several IP events mapped to the same user.
+
+As Deep Sync collects billions of digital identifiers from online event data, we have the ability to weed out unreliable IP addresses while increasing our match strength by observing MAID, IP, and other signal relationships over time.
+
+DEEP S Y NC 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Available Identi?ers
+
+• Deep Sync Individual Identifiers
+• Deep Sync Household Identifiers
+• Deep Sync Address Identifiers
+• Full Names
+• Postal Addresses
+• Email Addresses (hashed and raw)
+• Phone Numbers
+• CTV IDs
+• IP Addresses
+• Mobile Ad IDs (MAIDs)
+• Unified ID 2.0 (UID2s)
+
+
+
+
+Connecting the Dots Between Data & Identity
+
+
+Unlock a Comprehensive Set of Enterprise-Level
+Capabilities
+Maximize the full potential of your data assets to drive innovation and deliver superior customer experiences when you harness the power of Deep Sync's identity graph.
+
+• Transform fragmented data into a single customer view with the application of persistent individual- and household-level identifiers
+• Remove duplicate individual-level records while discovering household relationships
+• Improve data quality by validating your customer records against a national truth set supported by weekly postal and
+change-of-address updates
+• Power offline-to-online data audience activation to make connections with known customers online
+• Create a clean, complete foundation for the application of data enhancement services
+• Enable measurement use cases that require data from various sources to be combined to create holistic outcomes
+
+DEEP S Y NC 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Begin Today!
+Solve your brand's complex marketing challenges with deterministic identity solutions from Deep Sync.
+Call 888-970-7248 for your comprehensive consultation.
+
+
+
+
