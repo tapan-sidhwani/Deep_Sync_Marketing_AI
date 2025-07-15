@@ -1,0 +1,175 @@
+Brand
+Identity Guidelines
+DEEP SYNC BRANDING
+20
+24
+The Industry Leader in Deterministic Identity
+
+About Deep Sync
+Bringing together long-standing industry leaders under one brand identity, Deep Sync was founded in 2022 to provide best-in-class, omnichannel  identity and data solutions to brands, agencies, and reseller partners in the US. 
+The Deep Sync brand identity showcases integrity and dependability with blue and teal aesthetics, modern imagery, and a focus on the customer experience. 
+The Industry Leader in Deterministic Identity
+ABOUT
+
+Mission, Vision & Statement
+Mission
+Deep Sync powers agencies and brands with unmatched audience insights, unsurpassed reach, and unrivaled expertise.
+
+Vision
+Company Statement
+To make it easy for all marketers and businesses to access, integrate, and leverage data.
+
+Deep Sync is the industry leader in deterministic identity and AI-powered data solutions. Leveraging our 35-year foundation of compiling direct mail-grade datasets, Deep Sync develops data-first technologies that power marketing, measurement, AI, and business intelligence for agencies and brands with our fully deterministic identity graph, privacy-first audiences, comprehensive data solutions, and integrations with leading platforms and cloud providers.
+
+
+
+Professionalism & Reliability
+Royal Blue
+Trust & Tranquility
+Sky Blue
+Clarity & Optimism
+Aqua
+Simplicity and Strength
+Black
+Color Scheme
+Blue as the primary color creates a sense of security and feeling of dependability 
+Our alternate color of sky blue associates feelings of trust that solutions are near
+Our accent aqua color brings forth feelings of clarity and calmness to the client process
+Black as the main body type and occasional accent brings together all other colors with echos of boldness. 
+#0642D6
+#25D0FB
+#69F5E5
+#0D0D0D
+R: 6, G: 66, B: 214
+R: 37, G: 208, B: 251
+R: 22, G: 242, B: 237
+R: 12, G: 12, B: 12
+
+5
+#1765ff to #002d9
+
+
+Primary Usage
+#25d0fb
+#2f69fe
+#002d9d
+Blue Shades
+Accent Usage
+Gradient Usage
+#bbfffd
+#16f2ed
+#00c9c5
+Aqua Shades
+  #bbfffd to #16f2ed
+
+
+
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+Lorem laksa sadipsum dolor sit amet, co nse ctetur adipis cing elit, sed do eius mod tempor incididu.
+Bold Text
+Raleway Font
+Aa
+Lorem laksa sadipsum dolor sit amet, conse ctetur
+Header Text 
+24pt
+Heading Typography
+
+Example Typography
+Heading 1 (Raleway Black)
+Subheading 2 (Raleway Normal)
+Body (Figtree Normal) Example: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+8
+Imagery & Photography
+Imagery should be modern, high-quality, and invoke a sense of professionalism. Utilize imagery that has a strong focus on people over graphics, and avoid using photography that looks dated or from a stock collection.
+
+Photography with strong, natural lighting and semi-blurred (high-focus) backgrounds or edges invoke a sense of modernism.
+Modern & People-Focused
+Rounded Edges on imagery as a standard layout display
+
+
+The Deep Sync Graphics Library has available images.
+Good!
+Avoid
+
+Note Line Breaks on the strokes on the middle spoke and on the cog wheel. 
+9
+Iconography
+Icons should largely be linear, with medium sized stroke weights. Preferences towards icons with visual adornments, such as line breaks or motion-based elements.
+
+Icons can be black, white on blue or blue. 
+Linear and Modern
+Good!
+Avoid
+Flaticon.com is a terrific resource for free icons that match our brand identity. 
+
+10
+Imagery Layout & Element Overlays
+In some cases, to invoke an enhanced “pop” to imagery, you can bring the subject outside of the bounding box/background. Here, you can see the subject’s head and arms float outside of the box.
+
+You can also use the standard blue behind these types of images to create a strong contrast with the subject, the bounding box and the background. Additionally, floating rounded-edge boxes over more subdued backgrounds (like the simple green backdrop in this example), can add more flair and visual attention. 
+Outside the Lines & Floating Rounded Boxes
+
+11
+Logo Usage
+These logos, whether Deep Sync or other subsidiary brands, should primarily be placed on white backgrounds. The transparency on the outside of the D icon as well as the line between “Deep” and “Sync” do not lend well to being on other colored backgrounds. 
+Full Color Logos
+Our logos are designed to be scaled down significantly, but in cases where pixel dimensions are below 128x128, defer to using the D icon logo instead of the full logo due to legibility. See this example on how these dimensions lend themselves better to the icon rather than the full logo. 
+In applications in which the logo is to be placed on a colored background, default to our white logo option. This example utilizes our own branding, though the white logo works well on top of other color choices. 
+White Logos
+Scaling
+
+Brand Logos
+The best in the business. Brought together for the best data solutions. 
+
+13
+13
+deepsync.com
+13
+Slide Example
+Imagery
+Rounded Edges. Focus on high-quality photography with person/people as subject.
+Icon Usage
+Linear, modern icon preferred. Low opacity (5%)  icon duplication as adornment. White icon on blue background preferred
+
+Section 3
+ 
+
+Section 2
+ 
+
+
+
+Section 1
+ 
+
+
+
+14
+Table Slide
+deepsync.com
+14
+Example
+Example
+Example
+
+Example
+Example
+Example
+
+Example
+Example
+Example
+
+
+deepsync.com
+15
+Section Title
+Information Slide
+Heading - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Heading - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Heading - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Heading - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+

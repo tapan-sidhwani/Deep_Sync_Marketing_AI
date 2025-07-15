@@ -1,0 +1,76 @@
+﻿For Internal Use Only
+  
+
+
+
+Differentiation Matrix:
+Deep Sync’s Identity Graph
+
+
+Point of Differentiation
+	Details
+	Customer Benefits
+	Proof Points
+	A national offline truth set is the foundation of Deep Sync’s identity graph
+
+
+	Highly accurate, unique foundational data - Identity spine with a nationwide universe of more than 260 million direct mail-grade personal information records (name and postal address) that leverages a national truth set; Deep Sync is one of only two companies that have access to this data
+Coverage - 97% coverage of U.S. consumers ages 18 and older
+Experience - More than 35 years’ experience of data compilation expertise
+Expertise - Tenured industry experts and data scientists with extensive CPG, financial, and government experience are building the graph
+Frequent data refreshes - Foundational identity spine data is updated weekly
+
+
+	Achieve accurate results - Tap into a leading source of truth for consumer name and postal information on a national level that is updated weekly
+Develop a single view of customers - Create single customer views with the application of persistent individual- and household-level identifiers; address IDs are also available
+Save budget - Reduce wasted ad spend by identifying and removing duplicate records
+Improve marketing effectiveness - Increase advertising effectiveness by connecting with your customers and prospects across environments
+Improve Measurement - Increase the accuracy of campaign measurement and attribution by tying activities to individuals and households 
+Leverage universal IDs - Utilize Deep Sync’s universal IDs, which are constructs of individuals and households, to simplify matching data yourself or with Deep Sync partners
+	In a recent comparison to determine incrementality between Deep Sync and another leading provider of identity resolution services, Deep Sync was able to successfully identify an additional 17% of profiles beyond that of the incumbent
+A recent activation client experienced a 220% audience expansion, taking their addressable universe from 1,233,175 records to 3,954,241 records, enabling them to extend their reach to the household level
+“Deep Sync enables MNTN's customers to onboard 1p audiences accurately and at scale, and further enrich those with high quality 3p data for targeting."
+- Jeff Teng, Vice President, Business Development, MNTN
+	Deterministic matching methodology for highly accurate connections
+
+
+(versus the use of probabilistic matching)
+
+
+
+
+	Deterministic Matching - Online identifiers are connected deterministically, based on observed PII linkages for accuracy and stability; known profiles always resolve to real-world individuals and households
+Connect offline and online IDs - We match to online and offline identifiers, including cookies, IPs, MAIDs, UID2s, hashed emails, and postal addresses without the use of modeling; digital linkages are refreshed monthly to ensure accurate, relevant connections
+
+
+	Improve cross-channel campaign effectiveness - Activate and translate data across channels and platforms with accuracy with Deep Sync’s deterministic offline-to-online matching
+Build stronger communication strategies - Leverage complete customer profiles to create more relevant messaging with personalization and segmentation
+Connect with known customers online by activating your offline data
+–
+The primary benefits of deterministic matching are accuracy and precision; the primary challenge is lower scale. Deep Sync’s Addressability Multiplier can be implemented to help overcome certain issues around scale. Our individual- or household-level expansion capabilities create larger audiences while maintaining highly-accurate results. 
+	On average, Deep Sync can identify 4 email addresses for each phone number received on input, and when an email address is received on input, we can generally identify 2 additional emails and 1 phone number
+During a two-month trial period, a Deep Sync partner directly attributed $3.1 million dollars in ad spend on their platform to audiences that were expanded by Deep Sync’s identity graph
+	Flexible and competitive commercials 
+
+
+(versus other providers)
+	Flexible and customized terms - As a privately-held company that sources and compiles our own data, we can offer more flexible commercial agreements than many other providers that are owned by large conglomerates or source their solutions from partner organizations
+	Customized pricing - Experience customized pricing structures that are aligned to your specific goals or use cases
+Simple and efficient buying - Eliminate complex packaged solutions that include products/services that are not relevant to your needs
+	To maintain client confidentiality, we do not share client-specific pricing examples; however, we have been told on many occasions that our pricing structure and the level of flexibility we have related to graph solutions is superior to other providers
+	Focused solutions with a  consultative, supportive approach
+
+
+(versus industry heavy hitters attempting to sell a full data stack)
+
+
+	Solutions targeted to needs - Deep Sync works closely with clients and prospects to achieve their specific  use cases; we won’t oversell beyond the identified need
+Competitors try to sell large bundles - It’s a common practice for competitive providers to attempt to upsell measurement suites, servers, and more
+	Speed to activation - Move faster from initial conversations to fulfilling your data needs and use cases; avoid distractions from long and complex cross-sells
+Minimize additional tech stack needs - Achieve your needs with the tech stack you have
+Flexible delivery options - Choose from a variety of delivery options, including flat files, cloud sharing, or a custom application, that meet your needs
+Rely on Expert support - Receive support from an enterprise deployment team that typically includes an Executive Sponsor, Solution Lead, Lead Data Engineer, and a dedicated Account Director
+	“T-Mobile chose Deep Sync as its core identity partner and data solutions provider. In addition to integrating and working with the Deep Sync data solutions across numerous lines of business inside T-Mobile, we've been impressed by the data expertise and leadership that the Deep Sync team has brought to T-Mobile.  This has helped us accelerate numerous data and AI initiatives inside T-Mobile.”
+
+
+-Jeff Frantz, Vice President, Data and AI, T-Mobile
